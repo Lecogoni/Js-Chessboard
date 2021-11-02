@@ -1,0 +1,31 @@
+body {
+  background: lightgray;
+  padding: 50px;
+}
+
+.green {
+  color: green;
+}
+
+.line {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 2px;
+  margin-bottom: 2px;
+}
+
+.column {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+}
+
+.black {
+  background: black;
+}
+
+.white {
+  background: white;
+}
+
